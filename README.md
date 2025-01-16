@@ -55,7 +55,6 @@ npm start
 
 1. Favicon: [Flaticon.com](https://www.flaticon.com/)
 1. Code Editor: [VS Code](https://code.visualstudio.com/)
-2. 
 ---
 
 Happy Coding! 🚀
