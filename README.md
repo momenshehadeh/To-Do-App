@@ -4,7 +4,7 @@
 
 A complete todo application with all features.
 
-**live demo: [MomenShehadeh/ToDoApp](https://momenshehadeh.github.io/ToDoApp/)**
+**live demo: [MomenShehadeh/ToDoApp](https://wc-react-todo-app.netlify.app/)**
 
 ---
 
